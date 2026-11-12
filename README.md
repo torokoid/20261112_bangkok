@@ -248,7 +248,7 @@ p.note { display: none; }
 
 
 <h2><span class="yellow">Moon age</span></h2>
-    <h2><p class="topicpath"><a href="https://starwalk.space/ja/moon-calendar" target="_blank"><span class="snow">Moon age Link</span></a></p></h2>
+    <h2><p class="topicpath"><a href="https://starwalk.space/ja/moon-calendar" target="_blank"><span class="blue">Moon age Link</span></a></p></h2>
 
 
 
