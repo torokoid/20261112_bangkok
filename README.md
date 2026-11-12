@@ -242,7 +242,8 @@ p.note { display: none; }
 <a href="20261112_00027.jpg" target="_blank"><img src="20261112_00027.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261112_00028.jpg" target="_blank"><img src="20261112_00028.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261112_00029.jpg" target="_blank"><img src="20261112_00029.jpg" alt="サンプル画像" class="responsive-media"></a>
-<a href="20261112_001.mp4" target="_blank"><img src="20261112_001.mp4" alt="サンプル画像" class="responsive-media"></a>
+<h2><span class="yellow">click to see mov ↓</span></h2>
+<a href="20261112_001.mp4" target="_blank"><img src="20261112_00030.png" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">11,Nov、バンコク市内を走るモノレール</span></h2>
 <div class="youtube-wrapper">
